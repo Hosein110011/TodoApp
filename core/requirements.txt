@@ -1,0 +1,8 @@
+# general modules
+Django==4.2.3
+mysqlclient==2.2.0
+djangorestframework==3.14.0
+
+# third party modules
+drf-yasg[validation]
+coreapi==2.3.3
